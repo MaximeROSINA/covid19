@@ -1,4 +1,4 @@
-# covid19
+# Artificial Intelligence
 
 ### COVID-19 Analysis and Prediction¶
 
@@ -13,3 +13,7 @@ The aim of this project is to apply artificial intelligence methods to this data
 ##### III - Machine Learning
 ##### IV - Improving the results and Theoretical formalism
 ##### Conclusion	
+
+### Documents
+
+You can find a jupyter notebook document and the report linked in this github repo.
