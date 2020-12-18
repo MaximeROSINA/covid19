@@ -16,4 +16,4 @@ The aim of this project is to apply artificial intelligence methods to this data
 
 ### Documents
 
-You can find a jupyter notebook document and the report linked in this github repo.
+You can find a jupyter notebook document and the report linked as well as the subject in this github repo.
